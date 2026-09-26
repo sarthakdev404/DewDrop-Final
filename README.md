@@ -18,12 +18,9 @@
 <br />
 
 <p align="center">
-  <img src="./assets/dewdrop-banner.jpg" alt="DewDrop Atmospheric Fog Harvester" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.15);" />
-</p>
-
-<p align="center">
   <b>Transforming dense atmospheric fog into safe, mineral-rich drinking water with active electrostatic attraction, embedded IoT sensors, and machine-learning intelligence.</b>
 </p>
+
 
 ---
 
@@ -209,7 +206,7 @@ The web application is built on **React 18** and **Vite**, styled with **Tailwin
 ```plaintext
 DewDrop/
 ├── assets/
-│   └── dewdrop-banner.jpg        # Hero banner and concept render
+│   └── hardware-prototype.jpg    # Working hardware prototype testing rig
 ├── hardware/
 │   └── sensors/
 │       ├── sensors.ino           # Arduino firmware (pH, TDS, DHT22 sampling)
