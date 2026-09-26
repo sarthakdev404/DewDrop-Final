@@ -4,6 +4,8 @@
 
 ### *Next-Generation Electrostatic Atmospheric Water Harvesting & Intelligent IoT Management*
 
+[![Patent](https://img.shields.io/badge/Status-Patent_Pending-red?style=for-the-badge&logo=shield)](LICENSE)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-lightgrey?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.1-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -29,7 +31,7 @@
 
 > [!NOTE]
 > ### 📌 Project Origin & GitHub Showcase Notice
-> **Note:** I originally designed and built this project earlier as an end-to-end CleanTech hardware, IoT, and AI initiative, but had not uploaded it to my GitHub until now. I am now publishing and open-sourcing the complete work here to showcase the research, system architecture, hardware schematics, machine learning models, and full-stack web dashboard.
+> **Note:** I originally designed and built this project earlier with my team as an end-to-end CleanTech hardware, IoT, and AI initiative, but had not uploaded it to my GitHub until now. I am now publishing this repository to showcase the research, system architecture, hardware schematics, machine learning models, and full-stack web dashboard for peer review and portfolio demonstration.
 
 ---
 
@@ -52,7 +54,7 @@
   - [4. Embedded Hardware Setup](#4-embedded-hardware-setup)
 - [Commercial & Municipal Applications](#-commercial--municipal-applications)
 - [Roadmap](#-roadmap)
-- [License](#-license)
+- [Intellectual Property & Patent Notice](#️-intellectual-property--patent-notice)
 
 ---
 
@@ -356,9 +358,20 @@ python app.py
 
 ---
 
-## 📄 License
+## ⚖️ Intellectual Property & Patent Notice
 
-This project is licensed under the [MIT License](LICENSE).
+> [!WARNING]
+> ### 🛡️ PATENT PENDING — ALL RIGHTS RESERVED
+> The electrostatic fog harvesting mechanisms, active condensation architectures, high-voltage droplet ionization systems, and embedded IoT sensor telemetry disclosed in this project are the subject of pending patent application(s) filed jointly by **Sarthak Sharma and Co-Inventors / The DewDrop Project Team**.
+>
+> **Permitted Use:**  
+> This repository is published strictly for personal portfolio display, academic reference, and peer review.
+>
+> **Restrictions & Prohibitions:**  
+> - No license, grant, or immunity under any patent, patent application, or intellectual property right (express or implied) is transferred to any third party.
+> - Commercial production, manufacturing, fabrication, reverse engineering, unauthorized distribution, or exploitation of the hardware designs, schematics, firmware, or system methodology is strictly prohibited without an explicit written licensing agreement signed by all co-inventors.
+>
+> For full legal terms and conditions, refer to the [LICENSE](LICENSE) file.
 
 ---
 
